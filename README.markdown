@@ -4,7 +4,7 @@
 
     SPDX-License-Identifier: CC0-1.0
 
-    Written in 2012, 2014, 2018 by Lawrence Velazquez
+    Written in 2012, 2014, 2018, 2023 by Lawrence Velazquez
     <vq@larryv.me>.
 
     To the extent possible under law, the author has dedicated all
@@ -18,11 +18,8 @@
 -->
 
 
-README
-======
+# quasiqwertyrc-vim #
 
-Colemakrc (pronounced "COAL-MAC-[R-C][wiki-rc]") is a set of
-customizations for using Unix terminal programs with a Colemak keyboard.
-You probably shouldn't use it.
-
-[wiki-rc]: https://en.wikipedia.org/wiki/Run_commands
+This is a Vim plugin that I used to use with the
+[Colemak](https://colemak.com) keyboard layout. You probably shouldn't
+use it.
