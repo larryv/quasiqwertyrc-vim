@@ -3,12 +3,12 @@
 " a Colemak keyboard layout.
 "
 " Last Change: 27 February 2016
-" Maintainer: Lawrence Velázquez <vq@larryv.me>
+" Maintainer: Lawrence Velazquez <vq@larryv.me>
 " License: Creative Commons Zero v1.0 Universal Public Domain Dedication
 "
 " SPDX-License-Identifier: CC0-1.0
 "
-" Written in 2014-2016 by Lawrence Andrew Velázquez.
+" Written in 2014-2016 by Lawrence Andrew Velazquez.
 "
 " To the extent possible under law, the author has dedicated all
 " copyright and related and neighboring rights to this software to the
