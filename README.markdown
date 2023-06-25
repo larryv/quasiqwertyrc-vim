@@ -20,6 +20,6 @@
 
 # quasiqwertyrc-vim #
 
-This is a Vim plugin that I used to use with the
+This is an unmaintained Vim plugin that I used to use with the
 [Colemak](https://colemak.com) keyboard layout. You probably shouldn't
 use it.
